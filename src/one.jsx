@@ -11,6 +11,8 @@ class One extends Component {
     let valu = this.state.value;
     this.setState({ value: valu - 1 });
     console.log("thierry  iramboant ");
+    console.log("thierry  iramboant ");
+    console.log("thierry  iramboant ");
   };
   render() {
     return (
